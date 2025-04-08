@@ -1,3 +1,3 @@
-# megacorp
+# megacorp | bad marketing example
 
-The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.
+Unite marketing, sales, and service in a single app. Try MegaCorp Starter Sui
